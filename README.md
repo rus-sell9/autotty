@@ -19,7 +19,7 @@ Ejecuta este script en tu máquina atacante antes de iniciar una sesión:
 
 ```bash
 chmod +x install.sh
-./install.sh
+./install.sh ```
 
 🔁 Uso del tratamiento TTY
 Una vez que tengas acceso a una reverse shell en la máquina víctima, ejecuta:
